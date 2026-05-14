@@ -9,4 +9,4 @@ My name is Hayden Barns, I'm an **exploratory analyst specializing in insurance 
 
 I dove in and earned my IBM Data Analyst Certification, along with hands-on experience in **Power BI, Tableau, SQL, Microsoft Excel, and Python (plus several libraries).** I've also taken on work from clients on and off the Upwork platform to hone my skills.
 
-Due to my 2 years of experience working as a licensed insurance sales agent, I consider my specialties to be insurance data and sales data, but I can work with any dataset thrown my way. The projects herein demonstrate my two year journey of growth as an exploratory data analyst. ✨
+Due to my 2 years working as a licensed insurance sales agent, I consider my specialties to be insurance data and sales data, but I can work with any dataset thrown my way. The projects herein demonstrate my 2 year journey of growth as an exploratory data analyst. ✨
